@@ -7,7 +7,7 @@
     />
 </p>
 
-<h1 align="center">Product and Consumer - RabbitMQ</h1>
+<h1 align="center">Producer and Consumer - RabbitMQ</h1>
 <!-- <p align="center">
    <em>Simplifique links com AWS S3, Lambda, e muito mais!</em>
 </p> -->
