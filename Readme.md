@@ -13,13 +13,7 @@
 </p> -->
 
 <p align="center">
-    <img src="https://img.shields.io/github/last-commit/diegofernandesss/
-product-consumer-Rabbitmq
-?style=default&logo=git&logoColor=white&color=F97128" alt="last-commit"/>
-    <img src="https://img.shields.io/github/languages/top/diegofernandesss/
-product-consumer-Rabbitmq
-?style=default&logo=openjdk&logoColor=white&color=F97128" alt="languages"/>
-    <img src="https://img.shields.io/github/languages/count/diegofernandesss/
-product-consumer-Rabbitmq
-?style=default&color=F97128" alt="count-languages"/>
+    <img src="https://img.shields.io/github/last-commit/diegofernandesss/product-consumer-Rabbitmq?style=default&logo=git&logoColor=white&color=F97128" alt="last-commit"/>
+    <img src="https://img.shields.io/github/languages/top/diegofernandesss/product-consumer-Rabbitmq?style=default&logo=openjdk&logoColor=white&color=F97128" alt="languages"/>
+    <img src="https://img.shields.io/github/languages/count/diegofernandesss/product-consumer-Rabbitmq?style=default&color=F97128" alt="count-languages"/>
 </p>
